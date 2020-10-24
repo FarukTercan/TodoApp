@@ -3,6 +3,8 @@
 
 # TodoApp
 
+<img src="https://i.ibb.co/VmcHWBy/TodoApp.png" width="50%" height="50%">
+
 > TodoApp is a UI that users can login to their favorite movie page list ( by using mockup login form and credentials ). 
 > 
 > User can add a new movie with its tag and categorize their movies according to this tags. 
